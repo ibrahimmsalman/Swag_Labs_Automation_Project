@@ -17,5 +17,4 @@ This project provides an automated testing framework for the [Swag Labs](https:/
 - Automated test execution and reporting through Jenkins  
 - Scalable and maintainable structure for future enhancements
 
-## Project Structure
 
